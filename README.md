@@ -1,7 +1,8 @@
 
 #screenshots
 
-![Screenshot (77)](https://user-images.githubusercontent.com/93415995/227139431-a6dbdb91-4c85-428c-a1d5-bfe33652e29d.png)
+![Screenshot (77)]![Screenshot (78)](https://user-images.githubusercontent.com/93415995/227139607-0f57637a-2136-44ff-a627-6fa4cae7f1c6.png)
+
 
 
 
